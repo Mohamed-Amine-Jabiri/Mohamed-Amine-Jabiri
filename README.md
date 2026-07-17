@@ -1,4 +1,4 @@
-# Bonjour, je suis Mohamed Amine Jabiri 👋
+# Bonjour, je suis Mohamed Amine Jabiri 
 
 🎯 Data Analyst Junior passionné par l'analyse de données, la Business Intelligence et le Data Engineering.
 
